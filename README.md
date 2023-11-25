@@ -1,4 +1,4 @@
-# ICCV2023_Recurrent Cross-Modality Fusion for ToF Depth Denoising
+# CVPR2024_Recurrent Cross-Modality Fusion for ToF Depth Denoising
 
 This repository provides the source code of Recurrent Cross-Modality Fusion for ToF Depth Denoising. 
 
